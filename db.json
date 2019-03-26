@@ -1,4 +1,4 @@
-products : [ 
+{ products : [ 
   {
   "id": 1,
   "judul": "Pasta - Ravioli",
@@ -121,3 +121,4 @@ products : [
   "harga": "$4.46"
 }
 ]
+}
